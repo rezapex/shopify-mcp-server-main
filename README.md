@@ -1,5 +1,6 @@
 # Shopify MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@rezapex/shopify-mcp-server-main)](https://smithery.ai/server/@rezapex/shopify-mcp-server-main)
 MCP Server for Shopify API, enabling interaction with store data through GraphQL API. This server provides tools for managing products, customers, orders, and more.
 
 <a href="https://glama.ai/mcp/servers/bemvhpy885"><img width="380" height="200" src="https://glama.ai/mcp/servers/bemvhpy885/badge" alt="Shopify Server MCP server" /></a>
